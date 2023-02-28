@@ -17,4 +17,4 @@ A simple website created by OLFU STEM 11-Y1-6 Students using Adobe XD
 
 #### Steps:
 1. Click this link below:
-- https://xd.adobe.com/view/4c49dd82-edab-43a6-ad05-e7a9c397fd55-191a/?fullscreen&hints=off
+- ~~https://xd.adobe.com/view/4c49dd82-edab-43a6-ad05-e7a9c397fd55-191a/?fullscreen&hints=off~~ link now expired
